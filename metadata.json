@@ -1,0 +1,6 @@
+{
+  "name": "BonHomie — Campus Event Management",
+  "description": "Find your people. Share the moment. Full-stack event discovery, transaction-safe registration, and organizer management with relational database design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
