@@ -62,35 +62,6 @@ It features an editorial campus collage aesthetic (neon lime `#D8FF24`, deep bla
 
 ---
 
-## 🚀 How to Run Locally
-
-```bash
-# 1. Install dependencies
-npm install
-
-# 2. Start development server
-npm run dev
-```
-
-Visit `http://localhost:3000` in your browser.
-
----
-
-## 📦 How to Push to GitHub
-
-Run the following commands in your project root:
-
-```bash
-git init
-git add .
-git commit -m "feat: complete bonhomie full-stack event platform with MySQL schema, ER diagram, and DML engine"
-git branch -M main
-git remote add origin https://github.com/<YOUR_GITHUB_USERNAME>/bonhomie.git
-git push -u origin main
-```
-
----
-
 ## 📂 Project Structure
 
 ```
